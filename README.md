@@ -27,4 +27,4 @@ My Skills
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=losajjang)](https://github.com/anuraghazra/github-readme-stats)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=losajjang)](https://solved.ac/losajjang)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=losajjang)](https://solved.ac/losajjang/)
